@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # dice_roller
 
 A new Flutter project.
@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Dice-Roller
 Basic Flutter Based App
->>>>>>> 1b3c336584035ca4df94bafda571184619d4b273
+
